@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: failed conversion -->
+  <Convert_Failure.label>невдала спроба звернення</Convert_Failure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
+  -->
+  <Convert_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_tried] звернути [RECIPIENT_nameDef], але [initiator_failed] невдачі.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)->попытался</li>
+    <li>initiator_tried(INITIATOR_gender==Female)->попыталась</li>
+    <li>initiator_failed(INITIATOR_gender==Male)->зазнає</li>
+    <li>initiator_failed(INITIATOR_gender==Female)->зазнає</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
+
+  <!-- EN: successful conversion -->
+  <Convert_Success.label>вдала спроба звернення</Convert_Success.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
+  -->
+  <Convert_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] успішно [initiator_converted] [RECIPIENT_nameDef].</li>
+    <li>initiator_converted(INITIATOR_gender==Male)->звернув</li>
+    <li>initiator_converted(INITIATOR_gender==Female)->звернула</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
+
+  <!-- EN: convert ideoligion attempt -->
+  <ConvertIdeoAttempt.label>спроба звернення</ConvertIdeoAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
+  -->
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_tried] звуернути [RECIPIENT_nameDef] у свою ідеолігію.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)->намагався</li>
+    <li>initiator_tried(INITIATOR_gender==Female)->намагалася</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+
+  <!-- EN: failed counsel -->
+  <Counsel_Failure.label>невдала втіха</Counsel_Failure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
+  -->
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_tried] втішити [RECIPIENT_nameDef], та [initiator_failed] помилку і [initiator_made] все тільки гірше.</li>
+    <li>initiator_tried(INITIATOR_gender==Male)->намагався</li>
+    <li>initiator_tried(INITIATOR_gender==Female)->намагалася</li>
+    <li>initiator_failed(INITIATOR_gender==Male)->скоїв</li>
+    <li>initiator_failed(INITIATOR_gender==Female)->скоїла</li>
+    <li>initiator_made(INITIATOR_gender==Male)->зробив</li>
+    <li>initiator_made(INITIATOR_gender==Female)->зробила</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
+
+  <!-- EN: successful counsel -->
+  <Counsel_Success.label>успішна втіха</Counsel_Success.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] advice on overcoming negativity.</li>
+    <li>problems->[RECIPIENT_possessive] problems</li>
+    <li>problems->[RECIPIENT_possessive] troubles</li>
+    <li>problems->[RECIPIENT_possessive] painful feelings</li>
+    <li>problems->recent difficulties</li>
+  -->
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_helped] [RECIPIENT_nameDef] подолати [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_helped] [RECIPIENT_nameDef] добре обміркувати [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_gave] [RECIPIENT_nameDef] порада, як мислити позитивно.</li>
+    <li>problems->[RECIPIENT_possessive] проблеми</li>
+    <li>problems->[RECIPIENT_possessive] труднощі</li>
+    <li>problems->[RECIPIENT_possessive] болісні почуття</li>
+    <li>problems->недавні негаразди</li>
+    <li>initiator_helped(INITIATOR_gender==Male)->допоміг</li>
+    <li>initiator_helped(INITIATOR_gender==Female)->допомогла</li>
+    <li>initiator_gave(INITIATOR_gender==Male)->дав</li>
+    <li>initiator_gave(INITIATOR_gender==Female)->дала</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
+
+  <!-- EN: preached health -->
+  <PreachHealth.label>проведено проповідь за здоров'я</PreachHealth.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
+    <li>preaching_topic->reasons to live</li>
+    <li>preaching_topic->higher ideoligious goals</li>
+    <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
+  -->
+  <PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_reinforced] здоров'я [RECIPIENT_nameDef], провівши проповідь про [preaching_topic].</li>
+    <li>preaching_topic->важливість життя</li>
+    <li>preaching_topic->високі ідеологічні цінності</li>
+    <li>preaching_topic->[RECIPIENT_possessive] сенс існування</li>
+    <li>initiator_reinforced(INITIATOR_gender==Male)->поліпшив</li>
+    <li>initiator_reinforced(INITIATOR_gender==Female)->поліпшила</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
+
+  <!-- EN: reassurance -->
+  <Reassure.label>сумніви розвіяні</Reassure.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
+  -->
+  <Reassure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_reinforced] віру [RECIPIENT_nameDef] у свої переконання.</li>
+    <li>initiator_reinforced(INITIATOR_gender==Male)->поліпшив</li>
+    <li>initiator_reinforced(INITIATOR_gender==Female)->поліпшила</li>
+  </Reassure.logRulesInitiator.rulesStrings>
+
+  <!-- EN: accuse -->
+  <Trial_Accuse.label>звинувачення</Trial_Accuse.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
+    <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>
+    <li>r_logentry->[INITIATOR_nameDef] accused [RECIPIENT_nameDef] of [wrongdoing].</li>
+    <li>wrongdoing->sabotaging the colony</li>
+    <li>wrongdoing->being lazy</li>
+    <li>wrongdoing->eating too much</li>
+    <li>wrongdoing->stealing</li>
+    <li>wrongdoing->being a horrible person</li>
+    <li>wrongdoing->disrespecting sacred ideas</li>
+    <li>wrongdoing->disrespecting respected figures</li>
+    <li>wrongdoing->heresy</li>
+    <li>wrongdoing->murder</li>
+    <li>wrongdoing->blasphemy</li>
+    <li>wrongdoing->treason</li>
+    <li>wrongdoing->hateful thinking</li>
+    <li>wrongdoing->disloyalty</li>
+  -->
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_presented] докази.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_appealed] до емоцій присутніх.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_accused] [RECIPIENT_nameDef] в [wrongdoing].</li>
+    <li>wrongdoing->саботажі</li>
+    <li>wrongdoing->ліні</li>
+    <li>wrongdoing->обжерливості</li>
+    <li>wrongdoing->злодійстві</li>
+    <li>wrongdoing->огидній поведінці</li>
+    <li>wrongdoing->неповазі до священних ідей</li>
+    <li>wrongdoing->неповазі до почесних людей</li>
+    <li>wrongdoing->чухні</li>
+    <li>wrongdoing->вбивстві</li>
+    <li>wrongdoing->богохульстві</li>
+    <li>wrongdoing->зраді</li>
+    <li>wrongdoing->розпалювання ненависті</li>
+    <li>wrongdoing->віроломстві</li>
+    <li>wrongdoing->колабораціонізмі</li>
+    <li>initiator_presented(INITIATOR_gender==Male)->надав</li>
+    <li>initiator_presented(INITIATOR_gender==Female)->надала</li>
+    <li>initiator_appealed(INITIATOR_gender==Male)->апелював</li>
+    <li>initiator_appealed(INITIATOR_gender==Female)->апелювала</li>
+    <li>initiator_accused(INITIATOR_gender==Male)->звинуватив</li>
+    <li>initiator_accused(INITIATOR_gender==Female)->звинуватила</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
+
+  <!-- EN: defend -->
+  <Trial_Defend.label>захист</Trial_Defend.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pleaded to jury.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called for mercy.</li>
+    <li>r_logentry->[INITIATOR_nameDef] stalled the proceedings.</li>
+    <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
+  -->
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [recipient_answer1] звинувачення.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [recipient_answer2] інший погляд.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [recipient_answer3] до присяжних.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [recipient_answer4] про помилування.</li>
+    <li>r_logentry->[INITIATOR_nameDef] тягне час.</li>
+    <li>r_logentry->[INITIATOR_nameDef] [recipient_answer5] судовий процес фікцією.</li>
+    <li>recipient_answer1(INITIATOR_gender==Male)->відкинув</li>
+    <li>recipient_answer1(INITIATOR_gender==Female)->відкинула</li>
+    <li>recipient_answer2(INITIATOR_gender==Male)->продемонстрував</li>
+    <li>recipient_answer2(INITIATOR_gender==Female)->продемонструвала</li>
+    <li>recipient_answer3(INITIATOR_gender==Male)->звернувся</li>
+    <li>recipient_answer3(INITIATOR_gender==Female)->звернулася</li>
+    <li>recipient_answer4(INITIATOR_gender==Male)->молив</li>
+    <li>recipient_answer4(INITIATOR_gender==Female)->молила</li>
+    <li>recipient_answer5(INITIATOR_gender==Male)->назвав</li>
+    <li>recipient_answer5(INITIATOR_gender==Female)->назвав</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
+
+  <!-- EN: work drive -->
+  <WorkDrive.label>робочий запал</WorkDrive.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
+  -->
+  <WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [initiator_called] [RECIPIENT_nameDef] працювати з особливою старанністю на благо поселення.</li>
+    <li>initiator_called(INITIATOR_gender==Male)->закликав</li>
+    <li>initiator_called(INITIATOR_gender==Female)->закликала</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
+
+</LanguageData>

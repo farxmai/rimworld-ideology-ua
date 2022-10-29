@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>транс берсерку</BerserkTrance.label>
+  <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
+  <BerserkTrance.description>Ця людина переповнена гнівом на ідеологічному ґрунті і перебуває у стані неконтрольованої люті. Його тіло наповнене небувалою силою, але майже не піддається контролю.</BerserkTrance.description>
+
+  <!-- EN: combat command -->
+  <CombatCommand.label>бойове командування</CombatCommand.label>
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <CombatCommand.description>Ця людина координує дії бійців поблизу, підвищуючи їхню ефективність у бою.</CombatCommand.description>
+
+  <!-- EN: combat command -->
+  <CombatCommandBuff.label>бойове командування</CombatCommandBuff.label>
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <CombatCommandBuff.description>Бойові навички покращені завдяки іншій людині, яка прийняла на себе командування.</CombatCommandBuff.description>
+
+  <!-- EN: farming command -->
+  <FarmingCommand.label>фермерські настанови</FarmingCommand.label>
+  <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
+  <FarmingCommand.description>Ця людина дає поради та настанови щодо фермерства, покращуючи здібності всіх навколо.</FarmingCommand.description>
+
+  <!-- EN: farming command -->
+  <FarmingCommandBuff.label>фермерські настанови</FarmingCommandBuff.label>
+  <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
+  <FarmingCommandBuff.description>Навички фермерства цієї людини покращені кимось поблизу, хто дає поради та настанови.</FarmingCommandBuff.description>
+
+  <!-- EN: immunity drive -->
+  <ImmunityDrive.label>підтримка одужання</ImmunityDrive.label>
+  <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
+  <ImmunityDrive.description>Ця людина отримала моральну підтримку, що додало йому впевненості та прискорило вироблення імунітету.</ImmunityDrive.description>
+
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>командування стрілками</MarksmanCommand.label>
+  <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
+  <MarksmanCommand.description>Ця людина керує вогнем, підвищуючи ефективність усіх стрільців поблизу.</MarksmanCommand.description>
+
+  <!-- EN: marksman command -->
+  <MarksmanCommandBuff.label>командування стрілками</MarksmanCommandBuff.label>
+  <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
+  <MarksmanCommandBuff.description>Ефективність ведення вогню цієї людини покращено, оскільки хтось поблизу керує стрілками.</MarksmanCommandBuff.description>
+
+  <!-- EN: mining command -->
+  <MiningCommand.label>шахтарські настанови</MiningCommand.label>
+  <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
+  <MiningCommand.description>Ця людина дає поради та настанови з видобутку, покращуючи здібності всіх навколо.</MiningCommand.description>
+
+  <!-- EN: mining command -->
+  <MiningCommandBuff.label>шахтарські настанови</MiningCommandBuff.label>
+  <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
+  <MiningCommandBuff.description>Навички видобутку цієї людини покращені кимось поблизу, хто дає поради та настанови.</MiningCommandBuff.description>
+
+  <!-- EN: preach health -->
+  <PreachHealth.label>проповідь за здоров'я</PreachHealth.label>
+  <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
+  <PreachHealth.description>Воля до життя цієї людини посилилася після прослуханої проповіді. Вона прискорила загоєння його ран та формування імунітету.</PreachHealth.description>
+
+  <!-- EN: production command -->
+  <ProductionCommand.label>ремісничі настанови</ProductionCommand.label>
+  <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
+  <ProductionCommand.description>Ця людина дає поради та настанови щодо виробництва та будівництва, покращуючи здібності всіх навколо.</ProductionCommand.description>
+
+  <!-- EN: production command -->
+  <ProductionCommandBuff.label>ремісничі настанови</ProductionCommandBuff.label>
+  <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
+  <ProductionCommandBuff.description>Навички виробництва та будівництва цієї людини покращені кимось поблизу, хто дає поради та настанови.</ProductionCommandBuff.description>
+
+  <!-- EN: research command -->
+  <ResearchCommand.label>наукові настанови</ResearchCommand.label>
+  <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
+  <ResearchCommand.description>Ця людина ділиться міркуваннями та надає моральну підтримку, збільшуючи швидкість дослідження у всіх навколо.</ResearchCommand.description>
+
+  <!-- EN: research command -->
+  <ResearchCommandBuff.label>наукові настанови</ResearchCommandBuff.label>
+  <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
+  <ResearchCommandBuff.description>Швидкість дослідження цієї людини збільшена, тому що хтось поряд ділиться науковими настановами.</ResearchCommandBuff.description>
+
+  <!-- EN: work drive -->
+  <WorkDrive.label>робочий запал</WorkDrive.label>
+  <!-- EN: The sense of being called upon by a leader to work harder. -->
+  <WorkDrive.description>Лідер закликав цю людину працювати вперто.</WorkDrive.description>
+
+</LanguageData>
