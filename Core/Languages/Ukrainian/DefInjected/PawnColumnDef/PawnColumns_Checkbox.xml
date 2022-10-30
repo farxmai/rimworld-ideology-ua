@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>Дотримуйтесь господаря, поки він в режимі бою.</FollowDrafted.headerTip>
-  
+  <FollowDrafted.headerTip>Слідувати за господарем під час бою.</FollowDrafted.headerTip>
+
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>Дотримуйтеся господаря, поки він працює у полі (полювання або приручення тварин).</FollowFieldwork.headerTip>
-  
+  <FollowFieldwork.headerTip>Слідувати за господарем, під час полювання або приручення тварин.</FollowFieldwork.headerTip>
+
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>Позначити тварин для полювання разом їз твоїми мисливцями.</Hunt.headerTip>
-  
+  <Hunt.headerTip>Призначити до полювання разом із мисливцем.</Hunt.headerTip>
+
   <!-- EN: Release to wild -->
-  <ReleaseAnimalToWild.headerTip>Звільнити на волю</ReleaseAnimalToWild.headerTip>
-  
+  <ReleaseAnimalToWild.headerTip>Відпустити на волю</ReleaseAnimalToWild.headerTip>
+
   <!-- EN: Slaughter -->
-  <Slaughter.headerTip>М'ясник</Slaughter.headerTip>
-  
+  <Slaughter.headerTip>Забити</Slaughter.headerTip>
+
+  <!-- EN: Sterilize -->
+  <Sterile.headerTip>Стерилізувати</Sterile.headerTip>
+
   <!-- EN: Tame a wild animal. -->
   <Tame.headerTip>Приручити дику тварину.</Tame.headerTip>
-  
+
 </LanguageData>

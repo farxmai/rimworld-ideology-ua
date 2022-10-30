@@ -431,11 +431,11 @@
   <!-- EN: prisoners -->
   <PrisonersLower>в'язні</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>Натисніть, щоб показати це доручення на вкладці "Доручення"</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Натисніть, щоб показати це завдання на вкладці "Завдання"</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>Настрій</Mood>
   <!-- EN: Quest -->
-  <Quest>Доручення</Quest>
+  <Quest>Завдання</Quest>
   <!-- EN: Brings raids every {0} -->
   <BringsRaidsEvery>Здійснює напади кожні {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
@@ -534,7 +534,7 @@
   <ScanAverageInterval>Випадковий інтервал знаходження</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>Прогрес до гарантованого знаходження</ScanningProgressToGuaranteedFind>
-  
+
   <!-- Meditation -->
   <!-- EN: meditating at -->
   <MeditatingAt>медитує на</MeditatingAt>
@@ -1060,7 +1060,7 @@
   <!-- EN: Click to jump to the flashstorm. -->
   <ClickToJumpToFlashstorm>Клікніть, щоб перейти до грози.</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>Спричинено дорученням: {0}</CausedByQuest>
+  <CausedByQuest>Спричинено завданням: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
@@ -1289,7 +1289,7 @@
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
   <ChargesRemaining>Потребує зарядки</ChargesRemaining>
-  
+
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Навчальний помічник</LearningHelper>
@@ -1353,7 +1353,7 @@
   <ClickToSeeAvailableOrders_WorldObject>{0}: Дізнатися про можливі накази...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Переглянути доступні накази...</ClickToSeeAvailableOrders_Empty>
-  
+
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
   <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
@@ -1425,7 +1425,7 @@
   <Reward_Title>{PAWNNAME} надав титул {TITLE} від {FACTION}</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>значення {0}</TotalValue>
-  
+
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
   <BondedWith>Прив'язано до: {0}</BondedWith>
@@ -1465,7 +1465,7 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Викликано через: {0}</CausedByHediff>
-  
+
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
   <HealingCureHediff>{1} у {0_nameDef} вилікувано.</HealingCureHediff>
@@ -1477,7 +1477,7 @@
 
   <!-- EN: Choose landing site -->
   <ChooseLandingSite>Оберіть місце посадки</ChooseLandingSite>
-  
+
   <!-- Rituals -->
   <!-- EN: ritual -->
   <Ritual>ритуал</Ritual>
@@ -1542,7 +1542,7 @@
   <AbilityDisabledNoCapacity>{0_labelShort} не має можливості {1}.</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>Усі, хто бере участь у ритуалі, отримують {0} настрій протягом {1} днів.</RitualOutcomeExtraDesc_Mood>
-  
+
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>Виберіть, хто має брати участь у {RITUAL_labelDef}.</ChooseParticipants>
   <!-- EN: Begin -->
@@ -1566,7 +1566,7 @@
   <StartingQuality>Початкова якість</StartingQuality>
   <!-- EN: Expected duration -->
   <ExpectedRitualDuration>Очікувана тривалість</ExpectedRitualDuration>
-  
+
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} {1}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->

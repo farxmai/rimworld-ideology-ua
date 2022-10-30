@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bond -->
-  <Bond.label>облігація</Bond.label>
-  
+  <Bond.label>відданість</Bond.label>
+  <Bond.labelFemale>відданість</Bond.labelFemale>
+
 </LanguageData>

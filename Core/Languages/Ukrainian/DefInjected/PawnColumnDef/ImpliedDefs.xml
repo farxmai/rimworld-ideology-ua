@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Переноска -->
+  <Trainable_Haul.headerTip>Перенесення</Trainable_Haul.headerTip>
+
+  <!-- EN: Преданность -->
+  <Trainable_Obedience.headerTip>Відданість</Trainable_Obedience.headerTip>
+
+  <!-- EN: Натравливание -->
+  <Trainable_Release.headerTip>Нацьковування</Trainable_Release.headerTip>
+
+  <!-- EN: Спасение -->
+  <Trainable_Rescue.headerTip>Порятунок</Trainable_Rescue.headerTip>
+
+  <!-- EN: Приручённость -->
+  <Trainable_Tameness.headerTip>Прирученість</Trainable_Tameness.headerTip>
+
+</LanguageData>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: colonist -->
-  <Colonist.label>поселенець</Colonist.label>
-  <Colonist.labelFemale>поселенець</Colonist.labelFemale>
-  <Colonist.labelFemalePlural>поселенці</Colonist.labelFemalePlural>
-  <Colonist.labelMale>поселенець</Colonist.labelMale>
-  <Colonist.labelMalePlural>поселенці</Colonist.labelMalePlural>
-  <Colonist.labelPlural>полесенці</Colonist.labelPlural>
-  
+  <Colonist.label>колоніст</Colonist.label>
+  <Colonist.labelFemale>колоніст</Colonist.labelFemale>
+  <Colonist.labelFemalePlural>колоністи</Colonist.labelFemalePlural>
+  <Colonist.labelMale>колоніст</Colonist.labelMale>
+  <Colonist.labelMalePlural>колоністи</Colonist.labelMalePlural>
+  <Colonist.labelPlural>колоністи</Colonist.labelPlural>
+
   <!-- EN: member -->
   <Tribesperson.label>абориген</Tribesperson.label>
   <Tribesperson.labelFemale>абориген</Tribesperson.labelFemale>
@@ -16,5 +16,5 @@
   <Tribesperson.labelMale>абориген</Tribesperson.labelMale>
   <Tribesperson.labelMalePlural>аборигени</Tribesperson.labelMalePlural>
   <Tribesperson.labelPlural>аборигени</Tribesperson.labelPlural>
-  
+
 </LanguageData>

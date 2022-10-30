@@ -16,12 +16,12 @@
   <CommandTogglePowerLabel>Перемкнути живлення</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Перемкнути живлення.</CommandTogglePowerDesc>
-  
+
   <!-- EN: Designate toggle power -->
   <CommandDesignateTogglePowerLabel>Призначити перемикач живлення</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
   <CommandDesignateTogglePowerDesc>Призначити перемикнути живленя цієї річі. Поселенець незабаром прийде та перемикне його.</CommandDesignateTogglePowerDesc>
-  
+
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Перез'єднати</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
@@ -33,7 +33,7 @@
   <CommandGatherSpotToggleDescActive>Активне - поселенці зберуться навколо цього об’єкта.</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
   <CommandGatherSpotToggleDescInactive>Неактивне - поселенці не збиратимутья навколо цього об’єкта.</CommandGatherSpotToggleDescInactive>
-  
+
   <!-- Drafting -->
   <!-- EN: Draft -->
   <CommandDraftLabel>Мобілізувати</CommandDraftLabel>
@@ -50,12 +50,12 @@
   <CommandFireAtWillLabel>Стріляти на розсуд</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
   <CommandFireAtWillDesc>Перемкнути вогонь за бажанням.\n\nКоли вимкнено, цей персонаж не буде автоматично стріляти в цілі здалеку. Не впливає на ближній бій.</CommandFireAtWillDesc>
-  
+
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>Очистити пріоритетну роботу</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
   <CommandClearPrioritizedWorkDesc>Очистити список назначених пріорітетних робіт. Персонаж повернеться до своєї звичайної самонаправленої діяльності.</CommandClearPrioritizedWorkDesc>
-  
+
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Скасувати</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
@@ -167,7 +167,7 @@
   <MessageTargetBelowMinimumRange>Ціль нижче мінімальної відстані.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
   <MessageTurretWontFireBecauseHoldFire>Увага: міномет не буде вести вогонь, тому що він у режимі "Не стріляти".</MessageTurretWontFireBecauseHoldFire>
-  
+
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
   <CommandShipLaunch>Запустили корабель</CommandShipLaunch>
@@ -223,7 +223,7 @@
   <CommandReplant>Пересадити</CommandReplant>
   <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
   <CommandReplantDesc>Це дерево в даний час упаковано для зберігання і транспортування. Використайте цю команду, щоб пересадити його на нове місце.</CommandReplantDesc>
-  
+
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
   <CommandMakeBeaconStockpileDesc>Створити склад навколо цієї будівлі, що формою точно відповідає радіусу запуску маяка.</CommandMakeBeaconStockpileDesc>
@@ -241,7 +241,7 @@
   <CommandAutoRearm>Авто-переобладнання</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Якщо увімкнено, ця пастка буде автоматично переобладнана після спрацювання.</CommandAutoRearmDesc>
-  
+
   <!-- Animal control -->
   <!-- EN: Animals attack -->
   <CommandReleaseAnimalsLabel>Нацькувати</CommandReleaseAnimalsLabel>
@@ -249,13 +249,13 @@
   <CommandReleaseAnimalsDesc>Якщо увімкнено, навчених тварин натравлюють на дальні цілі. Якщо вимкнено, вони залишаються поруч і охороняють господаря.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
   <CommandReleaseAnimalsFail_NoAnimals>Немає доступних тварин.</CommandReleaseAnimalsFail_NoAnimals>
-  
+
   <!-- Squad attack -->
   <!-- EN: Attack -->
   <CommandSquadAttack>Атакувати</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
   <CommandSquadAttackDesc>Наказати обраному поселенцю атакувати призначену ціль.</CommandSquadAttackDesc>
-  
+
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>Атаки ближнього бою</CommandMeleeAttack>
@@ -267,13 +267,13 @@
   <CommandHoldFire>Зупинити вогонь</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
   <CommandHoldFireDesc>Зупинити будь-які атаки.</CommandHoldFireDesc>
-  
+
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
   <CommandReload_NoCharges>Не лишилося {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
   <CommandReload_NoAmmo>Необхідно зарядити {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
-  
+
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Оберіть рослину для вирощування</CommandSelectPlantToGrowMulti>
@@ -281,7 +281,7 @@
   <CommandSelectPlantToGrow>Саджати: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
   <CommandSelectPlantToGrowDesc>Визначте, яку рослину варто тут посадити.</CommandSelectPlantToGrowDesc>
-  
+
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>Налаштовано на</CommandSelectMineralToScanFor>
@@ -297,7 +297,7 @@
   <CommandFormCaravan>Сформувати караван</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
   <CommandFormCaravanDesc>Сформуйте групу поселенців, здатних подорожувати в нові зони. Вони зберуть усю призначену провізію та супутніх тварин, покинуть нинішню територію та чекатимуть подальших наказів.</CommandFormCaravanDesc>
-  
+
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
   <CommandReformCaravan>Переформувати караван</CommandReformCaravan>
@@ -305,13 +305,13 @@
   <CommandReformCaravanDesc>Розформувати групу поселенців. Поселенці покинуть нинішню зону та чекатимуть подальших наказів.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>У цій зоні все ще є вороги.</CommandReformCaravanFailHostilePawns>
-  
+
   <!-- Split caravan -->
   <!-- EN: Split -->
   <CommandSplitCaravan>Розділити</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
   <CommandSplitCaravanDesc>Розділити цей караван на два. Пізніше каравани можуть бути об'єднані назад, допоки вони знаходяться близько один до одного.</CommandSplitCaravanDesc>
-  
+
   <!-- Merge caravan -->
   <!-- EN: Merge -->
   <CommandMergeCaravans>Об'єднати</CommandMergeCaravans>
@@ -321,7 +321,7 @@
   <CommandMergeCaravansFailCaravansNotSelected>Обрати всі каравани, які потрібно об'єднати. Каравани повинні бути близько один до одного.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
   <CommandJoinCaravan>Приєднатися</CommandJoinCaravan>
-  
+
   <!-- Settle -->
   <!-- EN: Settle -->
   <CommandSettle>Поселитися</CommandSettle>
@@ -335,7 +335,7 @@
   <CommandSettleFailNoColonists>Там нікого немає щоб захопити зону.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>У цій області є вороги.</CommandSettleFailEnemies>
-  
+
   <!-- Abandon home -->
   <!-- EN: Abandon -->
   <CommandAbandonHome>Покинути</CommandAbandonHome>
@@ -343,7 +343,7 @@
   <CommandAbandonHomeDesc>Покинути цей район. Район стане недоступним, і ви не зможете повернутися сюди більше ніколи. Відмовившись від свого будинку, ви зможете замовити один зі своїх караванів, щоб оселитися в новому районі.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>Усі ваші колоністи там.</CommandAbandonHomeFailAllColonistsThere>
-  
+
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
   <CommandCancelFormingCaravan>Скасувати формування каравану</CommandCancelFormingCaravan>
@@ -355,19 +355,19 @@
   <CommandRemoveFromCaravan>Видалити з каравану</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
   <CommandRemoveFromCaravanDesc>Видалити цю людину чи тварину з каравану.</CommandRemoveFromCaravanDesc>
-  
+
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
   <CommandAddToCaravan>Додати до каравану</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
   <CommandAddToCaravanDesc>Додати цю людину чи тварину до каравану.</CommandAddToCaravanDesc>
-  
+
   <!-- Show map -->
   <!-- EN: Zoom in -->
   <CommandShowMap>Збільшити</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
   <CommandShowMapDesc>Збільшити масштаб у цій зоні.</CommandShowMapDesc>
-  
+
   <!-- Trade -->
   <!-- EN: Trade -->
   <CommandTrade>Торгувати</CommandTrade>
@@ -393,7 +393,7 @@
   <CommandFulfillTradeOfferFailInsufficient>Ваш караван мусить мати {0} щоб завершити цю торгівельну угоду.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
   <CommandFulfillTradeOfferConfirm>Дати {0}?</CommandFulfillTradeOfferConfirm>
-  
+
   <!-- Take off -->
   <!-- EN: Take off -->
   <CommandTakeOff>Взлетіти</CommandTakeOff>
@@ -413,13 +413,13 @@
   <CommandToggleAllowAutoRefuel>Перемикнути автоматичну дозаправку</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
   <CommandToggleAllowAutoRefuelDesc>Встановлює, чи дозволяється автоматична дозаправка.</CommandToggleAllowAutoRefuelDesc>
-  
+
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>Скасувати завантаження</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Скасувати завантаження цього людьми або предметами та вийняти все, що вже завантажено.</CommandCancelLoadDesc>
-  
+
   <!-- Launch group -->
   <!-- EN: Launch -->
   <CommandLaunchGroup>Пуск</CommandLaunchGroup>
@@ -431,7 +431,7 @@
   <CommandLaunchGroupFailNoFuel>Деякі пускові установки в цій групі не мають пального.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
   <CommandLaunchGroupFailUnderRoof>Деякі пускові установки знаходяться під дахом.</CommandLaunchGroupFailUnderRoof>
-  
+
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Завантажити групу для запуску з {0}</CommandLoadTransporter>
@@ -441,49 +441,49 @@
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Транспортна капсула не приєднана до порту для заправки.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>Пускова установка не має пального.</CommandLoadTransporterFailNoFuel>
-  
+
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
   <CommandLoadTransporterSingle>Завантажити</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterSingleDesc>Відкриває діалогове вікно для завантаження, щоб ви могли вирішити, хто і що має бути завантажене всередину.</CommandLoadTransporterSingleDesc>
-  
+
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
   <CommandSetToLoadTransporter>Підготовити для завантаження</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandSetToLoadTransporterDesc>Відкриває діалогове вікно для завантаження, щоб ви могли вирішити, хто і що має бути завантажене всередину.</CommandSetToLoadTransporterDesc>
-  
+
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
   <CommandAutoloadTransporters>Автозавантаження</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
   <CommandAutoloadTransportersDesc>Перемикнути завантаження всього необхідного вантажу автоматично, як тільки він стає доступним.</CommandAutoloadTransportersDesc>
-  
+
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>Обрати попереднього в групі запуску</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
   <CommandSelectPreviousTransporterDesc>Обрати попередню транспортну капсулу у групі запуску.</CommandSelectPreviousTransporterDesc>
-  
+
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>Обрати групу запуску</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
   <CommandSelectAllTransportersDesc>Обрати усі транспортні капсули у цій групі запуску.</CommandSelectAllTransportersDesc>
-  
+
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>Обрати наступного в групі запуску</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
   <CommandSelectNextTransporterDesc>Обрати наступну транспортну капсулу у групі запуску.</CommandSelectNextTransporterDesc>
-  
+
   <!-- Vent -->
   <!-- EN: Designate open/close -->
   <CommandDesignateOpenCloseVentLabel>Призначити відкрити/закрити</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
   <CommandDesignateOpenCloseVentDesc>Призначити закрити чи відкрити цю вентиляції. Незабаром прийде поселенець для виконання завдання.</CommandDesignateOpenCloseVentDesc>
-  
+
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
   <CommandRemoveWaypointLabel>Видалити</CommandRemoveWaypointLabel>
@@ -495,7 +495,7 @@
   <CommandPauseCaravan>Відпочити</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
   <CommandToggleCaravanPauseDesc>Почати відпочинок. Від цього ви отримаєте наступні переваги:\n\n  - Люди можуть соціально взаємодіяти\n  - Їжа добувається в {0} разів швидше\n  - Видимість помножена на {1}</CommandToggleCaravanPauseDesc>
-  
+
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
   <CommandShowSellableItems>Покажіть, що купуватиме</CommandShowSellableItems>
@@ -517,7 +517,7 @@
   <CommandSendShuttleFailUnderRoof>Шатл під дахом.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
   <CommandSendShuttleFailMissingRequiredThing>Деякі з необхідних предметів або людей відсутні.</CommandSendShuttleFailMissingRequiredThing>
-  
+
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
   <CommandShuttleDismiss>Відхилити</CommandShuttleDismiss>
@@ -542,20 +542,20 @@
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>Переглянути доручення: {0}</CommandViewQuest>
+  <CommandViewQuest>Переглянути завдання: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>Показати це доручення на вкладці Доручення.</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Показати це завдання на вкладці Завдання.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>Відкрити пов'язане доручення</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Відкрити пов'язане завдання</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>Відкрити пов'язане доручення на вкладці Доручення.</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Відкрити пов'язане завдання на вкладці Завдання.</CommandOpenLinkedQuestDesc>
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
   <CommandDropPawn>Викинути {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>Кинути людину.</CommandDropPawnDesc>
-  
+
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
   <TakeDrug>Прийняти припарат...</TakeDrug>
@@ -580,5 +580,5 @@
   <CommandCancelRitualDesc>Негайно перервати {RITUAL_labelDef}. Необхідність проведення ритуалу залишиться. Пізніше ви зможете почати його спочатку.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>Ви впевнені що хочете перервати {RITUAL_labelDef}?</CommandCancelRitualConfirm>
-  
+
 </LanguageData>

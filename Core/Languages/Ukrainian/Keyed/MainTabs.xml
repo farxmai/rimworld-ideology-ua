@@ -42,7 +42,7 @@
   <WorkDisabledByTrait>Заблоковано рисою: {0}</WorkDisabledByTrait>
   <!-- EN: Disabled by quest: {0} -->
   <WorkDisabledByQuest>Заблоковано завданням: {0}</WorkDisabledByQuest>
-  
+
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Керувати одягом</ManageOutfits>
@@ -62,7 +62,7 @@
   <ManageDrugPolicies>Керування вживанням наркотиків</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
   <ManageFoodRestrictions>Керування обмеженнями в їжі</ManageFoodRestrictions>
-  
+
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>Копіювати</Copy>
@@ -70,7 +70,7 @@
   <Paste>Вставити</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>Дозволена зона</AllowedArea>
-  
+
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>Майстер</Master>
@@ -78,13 +78,13 @@
   <PregnantIconDesc>Вагітних ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>Прив'язаний до</BondedTo>
-  
+
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Це хижак. Ця тварина полюватиме на тварин, що менше за неї, в тому числі - й людей.</IsPredator>
   <!-- EN: This creature is currently in mental state: {0} -->
   <IsInMentalState>Ця істота зараз знаходиться в психічному стані: {0}</IsInMentalState>
-  
+
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Ворог</Hostile>
@@ -120,7 +120,7 @@
   <Rival>Суперник</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>Знайомство</Acquaintance>
-  
+
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>Графік</Graph>
@@ -128,7 +128,7 @@
   <Messages>Повідомлення</Messages>
   <!-- EN: Statistics -->
   <Statistics>Статистика</Statistics>
-  
+
   <!-- History tab - Graphs -->
   <!-- EN: Select graph -->
   <SelectGraph>Вибір графіка</SelectGraph>
@@ -263,7 +263,7 @@
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>Завершено {0} тому</QuestFinishedAgo>
   <!-- EN: Accept quest -->
-  <AcceptQuest>Прийняти доручення</AcceptQuest>
+  <AcceptQuest>Прийняти завдання</AcceptQuest>
   <!-- EN: Accept with {0_labelShort} -->
   <AcceptWith>Прийняти з {0_labelShort}</AcceptWith>
   <!-- EN: Accept for -->
@@ -273,19 +273,19 @@
   <!-- EN: The offer expired. -->
   <QuestOutcomeInfo_OfferExpired>Пропозиція вже неактуальна.</QuestOutcomeInfo_OfferExpired>
   <!-- EN: You completed this quest. -->
-  <QuestOutcomeInfo_UnknownOrSuccess>Ви виконали це доручення.</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_UnknownOrSuccess>Ви виконали це завдання.</QuestOutcomeInfo_UnknownOrSuccess>
   <!-- EN: You failed this quest. -->
-  <QuestOutcomeInfo_Failed>Ви не змогли виконати це доручення.</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Failed>Ви не змогли виконати це завдання.</QuestOutcomeInfo_Failed>
   <!-- EN: This quest became invalid before it was accepted. -->
-  <QuestOutcomeInfo_Invalid>Це доручення стало недійсним, ще до його прийняття.</QuestOutcomeInfo_Invalid>
+  <QuestOutcomeInfo_Invalid>Це завдання стало недійсним, ще до його прийняття.</QuestOutcomeInfo_Invalid>
   <!-- EN: Jump to {0} -->
   <JumpToTargetCustom>Стрибок до {0}</JumpToTargetCustom>
   <!-- EN: Select hives -->
   <SelectHiveTargets>Обрати вулики</SelectHiveTargets>
   <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
-  <QuestChallengeRatingTip>Рейтинг завдання. Це загальна оцінка того, наскільки складним буде доручення щодо вашої поточної сили. Більш складні завдання дають більшу винагороду.\n\n1: Нормально\n2: Складно\n3: Тяжко\n4: Неймовірно</QuestChallengeRatingTip>
+  <QuestChallengeRatingTip>Рейтинг завдання. Це загальна оцінка того, наскільки складним буде завдання щодо вашої поточної сили. Більш складні завдання дають більшу винагороду.\n\n1: Нормально\n2: Складно\n3: Тяжко\n4: Неймовірно</QuestChallengeRatingTip>
   <!-- EN: To accept this quest, you need -->
-  <QuestAcceptanceRequirementsDescription>Щоб прийняти це доручення, вам потрібно</QuestAcceptanceRequirementsDescription>
+  <QuestAcceptanceRequirementsDescription>Щоб прийняти це завдання, вам потрібно</QuestAcceptanceRequirementsDescription>
   <!-- EN: free bedrooms that satisfy the title requirements of -->
   <QuestBedroomRequirementsUnsatisfied>вільні спальні кімнати, відповідні титулу</QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
@@ -305,11 +305,11 @@
   <!-- EN: Reward preferences -->
   <ChooseRewards>Переваги винагороди</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
-  <ChooseRewardsDesc>Скажіть іншим фракціям, які винагороди ви хочете в майбутніх дорученнях. Це не впливає на вже запропоновані доручення.</ChooseRewardsDesc>
+  <ChooseRewardsDesc>Скажіть іншим фракціям, які винагороди ви хочете в майбутніх завданнях. Це не впливає на вже запропоновані завдання.</ChooseRewardsDesc>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Прийняти {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
-  <AcceptRoyalFavorDesc>Незалежно від того, чи хочете ви отримати винагороду {FACTION_royalFavorLabel} від {FACTION_name}.\n\nЯкщо це вимкнено, {FACTION_name} замість цього запропонує інші види винагород.\n\nЦе налаштування впливає лише на нові доручення.</AcceptRoyalFavorDesc>
+  <AcceptRoyalFavorDesc>Незалежно від того, чи хочете ви отримати винагороду {FACTION_royalFavorLabel} від {FACTION_name}.\n\nЯкщо це вимкнено, {FACTION_name} замість цього запропонує інші види винагород.\n\nЦе налаштування впливає лише на нові завдання.</AcceptRoyalFavorDesc>
   <!-- EN: Accept goodwill -->
   <AcceptGoodwill>Приймати прихільність</AcceptGoodwill>
   <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->

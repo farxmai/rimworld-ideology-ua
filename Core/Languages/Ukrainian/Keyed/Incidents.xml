@@ -33,7 +33,7 @@
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>Падіння транспортної капсули</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>{PAWN_titleIndef} на ім'я {PAWN_nameDef} падає у транспорній капсулі неподалеку. Якщо {PAWN_pronoun} переживе приземлення, то {PAWN_pronoun} буде важко поранений.</RefugeePodCrash>  
+  <RefugeePodCrash>{PAWN_titleIndef} на ім'я {PAWN_nameDef} падає у транспорній капсулі неподалеку. Якщо {PAWN_pronoun} переживе приземлення, то {PAWN_pronoun} буде важко поранений.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Factionless>{PAWN_nameDef} не має зв'язків з будь-якою фракцією. Ви можете врятувати {PAWN_objective} і сподіватись, що {PAWN_pronoun} приєднається добровільно, або захопити {PAWN_objective} для вербування чи рабства.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -99,7 +99,7 @@
   <LetterLabelManhunterPackArrived>Зграя скажених звірів</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
   <ManhunterPackArrived>У цей район увійшла зграя мисливців {0}! Збожеволівши від хвороби, відомої як сказ, вони будуть бродити по регіону, полюючи за людиноподібною плоттю.\n\nВони не нападуть на двері, якщо не побачать, як хтось проходить через двері. Сховайтеся всередині, і ви будете в безпеці. Вони також не будуть атакувати турелі без живлення, тому вимкніть турелі, щоб врятувати їх.\n\n{0} покинуть цей район через один-два дні. Ви можете сховатися і перечекати їх, або боротися з ними.</ManhunterPackArrived>
-  
+
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>{SOURCE_label} видав психічний імпульс, що звів навколишніх тварин з розуму.</MessageAnimalInsanityPulse>
@@ -117,7 +117,7 @@
   <LetterLabelPsychicDroneLevelIncreased>Підсилювачі дрона</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>З розбитого човна доноситься сильний психічний дрон. Кожен {0} гуманоїд навколо тепер почуватиметься більш стривоженим, наляканим та схильним до параної.</LetterPsychicDroneLevelIncreased>
-  
+
   <!-- Agent revealed -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Агент</LetterLabelAgentRevealed>
@@ -129,7 +129,7 @@
   <LetterLabelBeaversArrived>Бобри!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>Зграя голодних альфабобрів щойно прибула.\n\nСпробуйте усунути їх, перш ніж вони знищать все дерево в регіоні.</BeaversArrived>
-  
+
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind} приручився</LetterLabelAnimalSelfTame>
@@ -145,13 +145,13 @@
   <LetterLabelFarmAnimalsWanderIn>{0} приєднався</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>Група {0}, кинута або загублена, приблукали в цей район.\n\nВони, схоже, звикли до контакту з людиною і приєднуються до колонії.</LetterFarmAnimalsWanderIn>
-  
+
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>Рідкісні трумбо</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
   <LetterThrumboPasses>Невелике стадо трумбо забрело в цей район.\n\nМиролюбиві від природи, ці рідкісні істоти надзвичайно небезпечні при зіткненні. Деякі торговці готові заплатити чималі гроші за їхню дорогоцінну шкіру і ріг.\n\nТрумбо покине цей район через кілька днів.</LetterThrumboPasses>
-  
+
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} з {0}</LetterLabelTraderCaravanArrival>
@@ -159,7 +159,7 @@
   <LetterTraderCaravanArrival>Караван з {0} наближається. Вони {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
   <LetterCaravanArrivalCommonWarning>Вони будуть вештатися в колонії протягом деякого часу перед відходом. Ви можете напасти на них - але це розізлить їхню фракцію!</LetterCaravanArrivalCommonWarning>
-    
+
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Вимога про викуп у {0}</RansomDemandTitle>
@@ -169,7 +169,7 @@
   <RansomDemand_Accept>Прийняти</RansomDemand_Accept>
   <!-- EN: Reject -->
   <RansomDemand_Reject>Відхилити</RansomDemand_Reject>
-  
+
   <!-- Journey-related -->
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Знайдено корабель</EscapeShipFoundLabel>
@@ -193,7 +193,7 @@
   <CaravanMeeting_TradeIncapable>у каравані немає учасників, здатних до торгівлі</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
   <CaravanMeeting_NoPermit>потрібен торгівець з назвою {0} з {1_name}</CaravanMeeting_NoPermit>
-  
+
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Запит каравану</LetterLabelCaravanRequest>
@@ -228,20 +228,20 @@
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>Доручення не було виконано</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Завдання не було виконано</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>Доручення тепер не можна завершити, бо {FACTION_name} ворожий.</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Завдання тепер не можна завершити, бо {FACTION_name} ворожий.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>Доручення не було виконано</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Завдання не було виконано</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>Доручення тепер не можна завершити, бо {SUBJECT_definite} був захоплений.</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Завдання тепер не можна завершити, бо {SUBJECT_definite} був захоплений.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>Доручення не було виконано</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Завдання не було виконано</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>Доручення тепер неможливо виконати до кінця, бо {SUBJECT_definite} вмер.</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Завдання тепер неможливо виконати до кінця, бо {SUBJECT_definite} вмер.</LetterQuestAskerDied>
 
 </LanguageData>

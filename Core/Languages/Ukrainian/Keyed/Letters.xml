@@ -17,20 +17,20 @@
   <FirstSummerWarning>Літо вже почалося! Але наближається зима.\n\nВаші посіви не виростуть взимку. Обов'язково зберігайте достатню кількість їжі, щоб вижити. Ви можете побудувати прохідний холодильник, щоб запобігти псуванню їжі.\n\nКупіть, вкрадіть або зробіть одяг, інакше ви замерзнете, коли вийдете на вулицю.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>Відносини з {0} повністю зруйновані. Вони тепер ворожі до вас.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Відносини з {0} повністю зруйновані. Вони тепер ворожі до вас.</LetterRelationsChange_Hostile>
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>Вони будуть проводити періодичні набіги на вашу колонію і каравани, і відмовляться торгувати з вами. Якщо ви хочете налагодити відносини, ви все одно можете запропонувати їм подарунки, використовуючи каравани або транспорт.\n\nЦе сталося тому, що прихильність ({0}) опустилася нижче {1}. Для того щоб відновити нейтральні відносини, прихильність повинна знову дійти до {2}.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Вони будуть проводити періодичні набіги на вашу колонію і каравани, і відмовляться торгувати з вами. Якщо ви хочете налагодити відносини, ви все одно можете запропонувати їм подарунки, використовуючи каравани або транспорт.\n\nЦе сталося тому, що прихильність ({0}) опустилася нижче {1}. Для того щоб відновити нейтральні відносини, прихильність повинна знову дійти до {2}.</LetterRelationsChange_HostileGoodwillDescription>
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>Відносини з {0} потеплішали. Тепер вони вважають вас нейтральними і більше не нападатимуть на вас.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
   <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Це сталося бо прихильність ({1}) піднялася понад {2}. Якщо прихильність впаде нижче {3}, {0} стануть ворожими знову. Якщо прихильність підніметься вище {4}, то вони стануть вашим союзником і битимуться з вами разом.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
-  
+
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>Відносини з {0} охололи. Тепер вони вважають вас нейтральними, а не союзниками.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
   <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Хоча вони все ще будуть мирно взаємодіяти з вами, вони більше не будуть посилати бійців, щоб допомогти вам, коли ви перебуваєте під загрозою.\n\nЦе сталося тому, що прихильність ({1}) впала нижче {2}. Якщо прихильність впаде нижче {3}, {0} стане ворожим. Якщо прихильність підніметься над {4}, вони знову стануть союзними.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
-  
+
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькими. Вони тепер вважають вас союзником.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
@@ -123,7 +123,7 @@
   <LetterHealthComplications>{PAWN_labelShort} має стан здоров'я:\n\n {1}\n\nЦе було викликано:\n\n {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
-  
+
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
   <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} має стан здоров'я: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
@@ -158,7 +158,7 @@
   <!-- EN: View related quest -->
   <ViewRelatedQuest>Переглянути пов’язані завдання</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>Переглянути доручення</ViewQuest>
+  <ViewQuest>Переглянути завдання</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>Останні події в житті {PAWN_definite}</LastEventsInLife>
 
@@ -440,11 +440,11 @@
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>Нове доручення стало доступним. Воно називається "{0}".</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>Нове завдання стало доступним. Воно називається "{0}".</LetterQuestBecameAvailable>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>Якщо ви не приймете доручення за {0}, воно зникне.</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>Якщо ви не приймете завдання за {0}, воно зникне.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>Нове доручення стало доступним. Воно називається "{0}".</LetterQuestBecameActive>
+  <LetterQuestBecameActive>Нове завдання стало доступним. Воно називається "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
   <LetterQuestAutomaticallyAcceptedTitle>Активнe завдання: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
@@ -467,7 +467,7 @@
   <LetterLabelRefugeeJoins>{PAWN_nameDef} приєднався</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
   <LetterRefugeeJoins>{PAWN_title} на ім'я {PAWN_nameDef} прибув і приєднується до колонії.</LetterRefugeeJoins>
-  
+
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRescueeJoins>{PAWN_nameDef} приєднався</LetterLabelRescueeJoins>
@@ -497,7 +497,7 @@
   <LetterLabelPawnsLeaving>{0} покидає</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
   <LetterPawnsLeaving>{0} йдуть.</LetterPawnsLeaving>
-  
+
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
   <LetterLabelPawnsKidnapped>{PAWN_nameDef} викрадений</LetterLabelPawnsKidnapped>
@@ -505,7 +505,7 @@
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
   <LetterPawnsKidnapped>{PAWN_nameDef} був викрадений {FACTION_name}!
 \nОднак {PAWN_pronoun} не втрачений навічно. Можливість врятувати {PAWN_objective} може з'явитися в найближчі дні чи роки.</LetterPawnsKidnapped>
-  
+
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
   <LetterTechprintAppliedLabel>Застосований техпринт: {PROJECT_label}</LetterTechprintAppliedLabel>
@@ -521,20 +521,20 @@
   <LetterTechprintAppliedPartAlreadyResearched>Цей проєкт уже повністю досліджений, тому техпринт взагалі не поліпшив ваші знання.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
   <LetterTechprintAppliedPartExpAwarded>Застосовуючи техпринт, {PAWN_labelShort} отримав {0} досвід у {1} навичці.</LetterTechprintAppliedPartExpAwarded>
-  
+
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>Доручення завершено</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Завдання завершено</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>Доручення не було виконано</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>Завдання не було виконано</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>Доручення завершено</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>Завдання завершено</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>Ви успішно виконали доручення '{0}'!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>Ви успішно виконали завдання '{0}'!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>Ви не змогли виконати доручення '{0}'.</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Ви не змогли виконати завдання '{0}'.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>Ви завершили доручення '{0}'.</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Ви завершили завдання '{0}'.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
@@ -543,7 +543,7 @@
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
   <LetterBladelinkWeaponBonded>{PAWN_labelShort} встановив зв'язок з персоною {WEAPON_labelShort}.
 \nВідтепер {WEAPON_labelShort} відмовиться бути підвладним кому-небудь, крім {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
-  
+
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
   <LetterLabelMechClusterArrived>Механоїди прибули</LetterLabelMechClusterArrived>
