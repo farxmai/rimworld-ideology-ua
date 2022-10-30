@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: gave gift -->
+  <GaveGift.label>отримано подарунок</GaveGift.label>
+
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>безрезультатні мирні перемови</PeaceTalksBackfire.label>
+
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>катастрофічні мирні перемови</PeaceTalksDisaster.label>
+
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>успішні мирні переговори</PeaceTalksSuccess.label>
+
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>тріумфальні мирні переговори</PeaceTalksTriumph.label>
+
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>відправлено запит на військову допомогу</RequestedMilitaryAid.label>
+
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>відправлено запит на торгівлю</RequestedTrader.label>
+
+  <!-- EN: traded -->
+  <Traded.label>укладено торгову угоду</Traded.label>
+
+</LanguageData>

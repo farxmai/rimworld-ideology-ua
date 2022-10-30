@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>дезертира прийнято</AcceptedDeserter.label>
+
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>гості залишились невдоволеними</FailedToKeepLodgersHappy.label>
+
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>представник фракції не потрапив до шатлу</MemberMissedShuttle.label>
+
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>термін будівництва монументу добіг кінця</MonumentConstructionExpired.label>
+
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>будівництво монументу було відмінено</MonumentConstructionMapRemoved.label>
+
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>монумент зруйновано</MonumentDestroyed.label>
+
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>завдання завершенно</QuestGoodwillReward.label>
+
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>представника фракції заарештовано</QuestPawnArrested.label>
+
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>представник фракції покинув колонію</QuestPawnLost.label>
+
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>в'язня поневолено</QuestPrisonerEnslaved.label>
+
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>в'язня завербовано</QuestPrisonerRecruited.label>
+
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>командир не потрапив до свого шатлу</ShuttleCommanderMissedShuttle.label>
+
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>охорона не потрапила до свого шатлу</ShuttleGuardsMissedShuttle.label>
+
+</LanguageData>

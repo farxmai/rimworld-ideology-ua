@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: psychic droner -->
+  <PsychicDroner.label>психічний гул</PsychicDroner.label>
+  <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
+  <PsychicDroner.description>Психічний гул, налаштований на {replace: {0}; "чоловік"-"чоловіків"; "жінка"-"жінок"}, зводить їх з глузду.</PsychicDroner.description>
+  <!-- EN: A psychic droner machine has begun affecting this region. -->
+  <PsychicDroner.letterText>Джерело психічного гулу почало діяти на цей регіон.</PsychicDroner.letterText>
+
+</LanguageData>

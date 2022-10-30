@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: psylink -->
+  <PsychicAmplifier.label>псі-зв'язок</PsychicAmplifier.label>
+  <!-- EN: An organic connection to a larger psychic field. This allows a person to psychically induce a distant archotech superintelligence to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with the legendary anima tree.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
+  <PsychicAmplifier.description>Органічний зв'язок з широким псі-полем, що дозволяє її власнику спонукати надрозум далекого архотека впливати на навколишню дійсність важкозрозумілими способами.\n\nЧим вище рівень псі-зв'язку, тим більше різних здібностей можна застосовувати. Незалежно від рівня, людина може застосовувати лише вивчені ним псі-здібності.\n\nПсі-зв'язок можна встановити різними способами. Для його штучного формування використовують спеціальний одноразовий нейроформер. У багатьох племенах навчилися розвивати його за допомогою ритуального зв'язування з легендарним древом душі.\n\nЯк фізичне явище псі-зв'язок погано піддається науковому поясненню. Однією з причин є те, що він начебто активно приховує себе під час спроб вивчення. Вчені сходяться на думці, що псі-зв'язок якимось чином поєднує людей з архотеками і дозволяє використовувати їхню силу, ймовірно, за допомогою свого роду переговорів або симпатичного механізму.</PsychicAmplifier.description>
+  <!-- EN: Allows a person to psychically-induce an archotech to influence reality in ways that seem impossible. Higher levels of psylink permit the use of more powers. -->
+  <PsychicAmplifier.descriptionShort>Дозволяє людині психічно спонукати архотека впливати на навколишній світ способами, які здаються неможливими. Що більший рівень зв'язку, то більше видів впливу доступно.</PsychicAmplifier.descriptionShort>
+  <PsychicAmplifier.labelNoun>псі-зв'язок</PsychicAmplifier.labelNoun>
+
+</LanguageData>

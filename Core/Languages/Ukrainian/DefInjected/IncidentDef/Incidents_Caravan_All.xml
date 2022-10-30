@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: ambush -->
+  <Ambush.label>засідка</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>Караван потрапив в засідку</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>{0} потрапив у засідку, що влаштували {1} з фракції {2}!</Ambush.letterText>
+
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>вимога про викуп</CaravanDemand.label>
+  <CaravanDemand.letterLabel>Караван потрапив в засідку</CaravanDemand.letterLabel>
+  <CaravanDemand.letterText>{0} потрапив в засідку {lookup: {1}; Case; 1} із фракції {2}! Вони вимагають плати за прохід.</CaravanDemand.letterText>
+
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>зустріч караванів</CaravanMeeting.label>
+
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>напад хижаків</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>На караван напали хижі тварини</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>Скажені {1} нападають на {0}!</ManhunterAmbush.letterText>
+
+</LanguageData>

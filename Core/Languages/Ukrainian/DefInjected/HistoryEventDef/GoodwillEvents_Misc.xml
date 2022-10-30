@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: attacked building -->
+  <AttackedBuilding.label>атаковано будівлю</AttackedBuilding.label>
+
+  <!-- EN: debug event -->
+  <DebugGoodwill.label>дебаг івентів</DebugGoodwill.label>
+
+  <!-- EN: laborers missed shuttle -->
+  <LaborersMissedShuttle.label>робітники пропустили шатл</LaborersMissedShuttle.label>
+
+  <!-- EN: tendency to move toward natural goodwill -->
+  <ReachNaturalGoodwill.label>тенденця до нейтралітету</ReachNaturalGoodwill.label>
+
+  <!-- EN: ritual done -->
+  <RitualDone.label>ритуал завершено</RitualDone.label>
+
+  <!-- EN: shuttle destroyed -->
+  <ShuttleDestroyed.label>човен знищено</ShuttleDestroyed.label>
+
+  <!-- EN: used forbidden thing -->
+  <UsedForbiddenThing.label>використано заборонену річ</UsedForbiddenThing.label>
+
+  <!-- EN: used harmful ability -->
+  <UsedHarmfulAbility.label>використано шкідливі здібності</UsedHarmfulAbility.label>
+
+</LanguageData>

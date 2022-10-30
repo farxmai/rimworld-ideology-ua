@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bite -->
+  <Bite.label>укус</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} було загризено до смерті.</Bite.deathMessage>
+
+  <!-- EN: blunt -->
+  <Blunt.label>удар</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} було забито до смерті.</Blunt.deathMessage>
+
+  <!-- EN: crush -->
+  <Crush.label>перелом</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} було розчавлено до смерті.</Crush.deathMessage>
+
+  <!-- EN: cut -->
+  <Cut.label>поріз</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} було зарізано.</Cut.deathMessage>
+
+  <!-- EN: blunt -->
+  <Demolish.label>удар</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0} було забито до смерті.</Demolish.deathMessage>
+
+  <!-- EN: blunt -->
+  <Poke.label>удар</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} було затикано до смерті.</Poke.deathMessage>
+
+  <!-- EN: scratch -->
+  <Scratch.label>подряпина</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} було пошматовано.</Scratch.deathMessage>
+
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>токсична подряпина</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>{0} було пошматовано.</ScratchToxic.deathMessage>
+
+  <!-- EN: stab -->
+  <Stab.label>колота рана</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} було заколото.</Stab.deathMessage>
+
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>отруйний укус</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} було загризено до смерті.</ToxicBite.deathMessage>
+
+</LanguageData>

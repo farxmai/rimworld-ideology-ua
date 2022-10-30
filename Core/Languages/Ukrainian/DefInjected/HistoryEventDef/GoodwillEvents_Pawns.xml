@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: attacked member -->
+  <AttackedMember.label>представника фракції атаковано</AttackedMember.label>
+
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>помер винний в'язень</GuiltyPrisonerDied.label>
+
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>помер невинний в'язень</InnocentPrisonerDied.label>
+
+  <!-- EN: member captured -->
+  <MemberCaptured.label>представника фракції було схоплено</MemberCaptured.label>
+
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>представника фракції було розчавлено</MemberCrushed.label>
+
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>представник фракції покинув мапу неушкодженним</MemberExitedMapHealthy.label>
+
+  <!-- EN: member killed -->
+  <MemberKilled.label>представника фракції було вбито</MemberKilled.label>
+
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>представник фракції помер</MemberNeutrallyDied.label>
+
+  <!-- EN: member sold -->
+  <MemberSold.label>представника фракції було продано</MemberSold.label>
+
+  <!-- EN: member stripped -->
+  <MemberStripped.label>представника фракції було роздягнуто</MemberStripped.label>
+
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>над представником фракції було нелегально прооперовано</PerformedHarmfulSurgery.label>
+
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>в'язень помер</PrisonerDied.label>
+
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>представник фракції постраждав</UsedHarmfulItem.label>
+
+</LanguageData>
